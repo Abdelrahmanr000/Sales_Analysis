@@ -1,10 +1,5 @@
 # Sales Analysis - Data Analysis Project
 
-## Project Preview
-
-![Overview Dashboard](Report/dashboard1.png)
-
-
 ## Overview
 This project delivers a comprehensive Sales Report built using SQL for data 
 extraction and Power BI for visualization. It consists of three interactive 
