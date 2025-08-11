@@ -24,13 +24,13 @@ identify trends, and make data-driven decisions.
 [git clone https://github.com/Abdelrahmanr000/Sales_Analysis.git]
 cd Sales_Analysis
 ```
-3. **Review SQL Queries**
+2. **Review SQL Queries**
 - Open `SQL/SQLQuery1.sql` To Check The SQL Logic Used To Replicate The Analysis.
 
-4. **Open Power BI Report**
+3. **Open Power BI Report**
 - Open `Report/` With Power BI Desktop To Explore The Interactive Visuals.
 
-5. **Read the Final Insights**
+4. **Read the Final Insights**
 - Open `Insights/Insights.pdf` To View The Project Conclusions.
 
 
