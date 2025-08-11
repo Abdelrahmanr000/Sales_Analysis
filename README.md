@@ -1,5 +1,10 @@
 # Sales Analysis - Data Analysis Project
 
+## Project Preview
+
+![Overview Dashboard](Report/dashboard1.png)
+
+
 ## Overview
 This project delivers a comprehensive Sales Report built using SQL for data 
 extraction and Power BI for visualization. It consists of three interactive 
@@ -34,16 +39,6 @@ cd Sales_Analysis
 - Open `Insights/Insights.pdf` To View The Project Conclusions.
 
 
-## Folders Description
-- `Dashboard_Images/`: Contains a Simple Glimpse About Report
-- `PY/`: Python Scripts
-- `SQL/`: SQL Queries Used For Data Exploration.
-- `Report_PowerBI/`: Power BI File With Visual Report
-- `Data_Origin/`: Data Before Splitting To Dim , Fact Tables
-- `Data/`: Dim , Fact Tables
-- `Data_Excel/`: Dim , Fact Tables With Excel Extension And Excel Overview Dashboard
-- `project_images/`: Images I Used In My Report
-- `Presentation/`: PDF File With Key Findings And Some Project Questions.
 
 ## Author
 - **Abdelrahman Reda**  
